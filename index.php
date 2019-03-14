@@ -40,6 +40,7 @@
     </style>
     <!-- Custom styles for this template -->
     <link href="/css/floating-labels.css" rel="stylesheet">
+    <link href="/css/styles.css" rel="stylesheet">
 </head>
 <body>
 <form class="form-signin">
